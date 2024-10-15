@@ -30,7 +30,6 @@
 
 
 <div align="center">
-  VISITAS DEL PERFIL:
   <img src="https://profile-counter.glitch.me/sssnakee0/count.svg?"  />
 </div>
 
